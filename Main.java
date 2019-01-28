@@ -84,7 +84,7 @@ public class Main {
         System.out.println("Наменьшее число: " + min);
     }
 
-    static void objective7() {  // готов не полностью, не работает с отрицательными числами
+    static void objective7() {  // готов не полностью, не работает с отрицательными числами 
         int slipArr[] = { 5, 4, 10, 9, 26, 5, 13, 20, 3, 15};
         int n = 5;
         System.out.println(Arrays.toString(slipArr));
